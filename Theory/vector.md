@@ -16,4 +16,4 @@ capacity 와 size
 하지만 예를들어
 capacity : 8
 size      : 2
-인 경우 메모리 공간이 너무 많아
+처럼 size 가capasize의 1/4인 경우 메모리의 공간이 너무 많아 메모리 낭비가 되므로 capasize 의 1/2을 버린다.
